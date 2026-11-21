@@ -6,4 +6,6 @@ coach_gt/
 submissions/
 out/
 *.zip
+!/truongmytam-front.zip
+!/truongmytam-fisheye.zip
 .env
